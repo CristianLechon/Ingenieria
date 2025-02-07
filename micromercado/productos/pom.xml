@@ -13,6 +13,7 @@
 	<artifactId>productos</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>productos</name>
+	<description>Descripcion del proyecto</description>
 	<packaging>jar</packaging>
 	
 	<properties>
